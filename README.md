@@ -1,7 +1,5 @@
-# 🚢 CodeAlpha_Titanic_EDA
-
-> **Project 1 — Exploratory Data Analysis**  
-> CodeAlpha Data Science Internship  
+# 🚢 Titanic_EDA
+Exploratory Data Analysis**  
 > Author: Limithra Shanmugam · AVS Engineering College
 
 ---
@@ -66,6 +64,4 @@ Source: [Kaggle Titanic Dataset](https://www.kaggle.com/datasets/brendan45774/te
 Alternate: [datasciencedojo/datasets](https://github.com/datasciencedojo/datasets)
 
 ---
-
-*CodeAlpha Data Science Internship — Project 1*
 
